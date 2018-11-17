@@ -1,0 +1,2 @@
+C:\Git\30daysofCode\Day23\obj\Debug\Day23.csprojAssemblyReference.cache
+C:\Git\30daysofCode\Day23\obj\Debug\Day23.csproj.CoreCompileInputs.cache
